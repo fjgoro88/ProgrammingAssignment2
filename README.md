@@ -1,6 +1,6 @@
-+# Programming Assignment 2: Lexical Scoping
-+
-+## For the Coursera course [R Programming](https://www.coursera.org/course/rprog)
+# Programming Assignment 2: Lexical Scoping
+
+## For the Coursera course [R Programming](https://www.coursera.org/course/rprog)
 +
 +The following code demonstrates how to use the `assessment3.R` R script.
 +
